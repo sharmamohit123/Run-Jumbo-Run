@@ -2,5 +2,4 @@
 Build an endless runner game with Js (II)
 
 #### Still from game
-
-![](/home/mohit/Pictures/Screenshot from 2019-11-20 19-37-47.png)
+![](https://drive.google.com/file/d/1k_sBElurV6PKwXWlq2heF3WghcNc081R/view?usp=sharing)
